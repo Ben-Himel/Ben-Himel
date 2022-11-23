@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Ben-Himel
-- 👀 I’m interested in C/C++/C#, .NET, and linux programing
-- 🌱 I’m currently learning C# and GitHub 
-- 💞️ I’m currently in MSSA Cohart CAD 9! 
-- 📫 I can be found at https://www.linkedin.com/in/ben-himel/
+Howdy folks, I’m @Ben-Himel. I am a aspiring Software Engineer currently in in a Microsoft/DoD sponsored Training prgogram https://military.microsoft.com/mssa/ . My current focus area is in C/C++/C# and .NET but I also have intrest in  Powershell and 🐧 Linux terminal. Please check me out and connect with! https://www.linkedin.com/in/ben-himel/
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ben-himel&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-himel&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ben-himel&count_private=true&theme=darcula&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-himel&langs_count=5&theme=darcula)]()
 
 <!---
 Ben-Himel/Ben-Himel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
