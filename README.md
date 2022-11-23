@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ben-Himel
-- 👀 I’m interested in Object Orriented Programing using custom made libraries
+- 👀 I’m interested in C/C++/C#, .NET, and linux programing
 - 🌱 I’m currently learning C# and GitHub 
 - 💞️ I’m currently in MSSA Cohart CAD 9! 
 - 📫 I can be found at https://www.linkedin.com/in/ben-himel/
