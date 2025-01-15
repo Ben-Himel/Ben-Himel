@@ -1,4 +1,4 @@
-Howdy folks, I’m @Ben-Himel, a Software Engineer and recent Microsoft Software and Systems Accademy grad https://military.microsoft.com/mssa/ . My current focus area is in C/C++/C# and .NET but I also have intrest in Powershell and 🐧 Linux terminal. Please check me out and connect with! https://www.linkedin.com/in/ben-himel/
+Howdy folks, I’m @Ben-Himel, a full time Software Engineer contractor. I focus most of my work on backend API/software, with a focus on C#, .NET development, and a little SQL. I also have personal interset in C/C++ Powershell and 🐧 Linux terminal. Please check me out and connect with! https://www.linkedin.com/in/ben-himel/
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ben-himel&count_private=true&theme=darcula&showicons=true)]()
